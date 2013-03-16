@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PurpleStar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">口袋翻译</string>
+	<string name="tips_input">输入需翻译内容</string>
+	<string name="docopy">点击复制</string>
+	<string name="main_doTranslation">翻译</string>
+	<string name="adId">56OJz1H4uMlW10ygWW</string>
+	<string name="test">56OJyM1ouMGoaSnvCK</string>
+	<string-array name="type_array">
+        <item>"中--->英"</item>
+        <item>"中--->日"</item>
+        <item>"英--->中"</item>
+    </string-array>
+</resources>
